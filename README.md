@@ -4,6 +4,9 @@
 
 > 404에러가 뜨는 링크는 코드스쿼드의 요청으로 비공개 처리 된 리포입니다. 
 
+<br/>
+<hr/>
+
 ## Test 
 
 ### 📆 기간 
@@ -118,7 +121,7 @@
 |2|sidedish|[GleamingStar/sidedish](https://github.com/GleamingStar/sidedish)|PR|Record |
 |3|baseball|[codesqurd-master-DD/baseball](https://github.com/codesqurd-master-DD/baseball)|PR|Record |
 |4|airbnb|[rla36/airbnb](https://github.com/rla36/airbnb)|PR|Record |
-|5|loading...|[loading..]()|PR|Record |
+|5|issue-tracker|[ChoiGiSung/issue-tracker](https://github.com/ChoiGiSung/issue-tracker)|PR|Record |
 
 <br/>
 <br/>
@@ -157,17 +160,15 @@
 <br/>
 <hr/>
 
-## Carousel Library
-
-### 📆 기간
-
-2021.04.19 ~ 2021.05.01
+## npm project
 
 ### 🎯 학습 목표
 
-- 범용성 있는 캐로셀 라이브러리를 제작, npm에 배포해본다.
+- 직접 만들어보자! 
 
-### 🔥 Repository
+| name | github | npm |
+|:---:|:---:|:---:|
+| Carousel | [link](https://github.com/jjunyjjuny/react-carousel) |[link](https://www.npmjs.com/package/@jjunyjjuny/react-carousel)|
+| Calendar | [link](https://github.com/jjunyjjuny/react-calendar) |[link](https://www.npmjs.com/package/@jjunyjjuny/react-calendar)|
+| create-dd-app | [link](https://github.com/jjunyjjuny/react-typescript-boilerplate) |[link](https://www.npmjs.com/package/create-dd-app)|
 
-[react-carousel](https://github.com/jjunyjjuny/react-carousel)
-[npm](https://www.npmjs.com/package/@jjunyjjuny/react-carousel)
